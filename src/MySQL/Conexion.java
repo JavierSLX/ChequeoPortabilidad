@@ -22,7 +22,7 @@ public class Conexion
     private static final String DRIVER = "com.mysql.jdbc.Driver";
     private static final String USER = "xampp";
     private static final String PASS = "marquesada?466";
-    private static final String URL = "jdbc:mysql://187.189.152.4:3306/recargasatc?serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf8";
+    private static final String URL = "jdbc:mysql://13.58.184.188:3306/recargasatc?serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf8&useSSL=false";
 
     private Conexion()
     {
